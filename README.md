@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naina Agarwal</h1>
-<h3 align="center">I’m a frontend developer in training, part-time bug whisperer, and full-time div wrangler. Currently studying the sacred scrolls of HTML, CSS, JavaScript — and occasionally battling the mysterious beasts named “Grid” and “Flexbox.”</h3>
+<h3 align="center">I’m a developer in training, part-time bug whisperer, and full-time div wrangler. Currently studying the sacred scrolls of HTML, CSS, JavaScript — and occasionally battling the mysterious beasts named “Grid” and “Flexbox.”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nainabyte&label=Profile%20views&color=0e75b6&style=flat" alt="nainabyte" /> </p>
 
