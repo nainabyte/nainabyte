@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nainabyte&label=Profile%20views&color=0e75b6&style=flat" alt="nainabyte" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nainabyte" alt="nainabyte" /></a> </p>
-
 - ⚡ Fun fact **They say “use your imagination”... So I imagined a bug-free deployment. Still imagining.**
 
 <h3 align="left">Connect with me: nainaagarwal2206@gmail.com</h3>
