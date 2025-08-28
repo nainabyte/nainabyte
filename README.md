@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nainabyte&label=Profile%20views&color=0e75b6&style=flat" alt="nainabyte" /> </p>
 
-- ⚡ Fun fact **They say “use your imagination”... So I imagined a bug-free deployment. Still imagining.**
+⚡ Fun fact **They say “use your imagination”... So I imagined a bug-free deployment. Still imagining.**
 
 <h3 align="left">Connect with me: nainaagarwal2206@gmail.com</h3>
 <p align="left">
